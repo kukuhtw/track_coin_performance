@@ -1,8 +1,8 @@
 # track_coin_performance
 
-Kukuh TW
-kukuhtw@gmail.com
-WA : 628129893706
+<br>Kukuh TW
+<br>kukuhtw@gmail.com
+<br>WA : 628129893706
 
 script ini berfungsi untuk melihat performance cryptocurrency pada 2 jam terakhir.
 cocok untuk investor dan trader cryptocurrency yang harus senantiasa terupdate informasi perkembangan harga crypto terkini
