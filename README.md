@@ -1,4 +1,9 @@
 # track_coin_performance
+
+Kukuh TW
+kukuhtw@gmail.com
+WA : 628129893706
+
 script ini berfungsi untuk melihat performance cryptocurrency pada 2 jam terakhir.
 cocok untuk investor dan trader cryptocurrency yang harus senantiasa terupdate informasi perkembangan harga crypto terkini
 Informasi dalam bentuk API/JSON seperti dibawah ini, memberitahukan persentase pertumbuhan harga crypto pada selang waktu 2 jam terakhir.
