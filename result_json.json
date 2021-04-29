@@ -1,0 +1,637 @@
+{
+    "status": "200",
+    "messages": "Coin`s Growth for last 2 hours",
+    "detail": [{
+        "rank": 1,
+        "symbol": "DAD",
+        "harga_updated": "5380",
+        "harga_last2hour": "5003",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "7.00743"
+    }, {
+        "rank": 2,
+        "symbol": "NXT",
+        "harga_updated": "1135",
+        "harga_last2hour": "1080",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "4.84581"
+    }, {
+        "rank": 3,
+        "symbol": "ACT",
+        "harga_updated": "326",
+        "harga_last2hour": "312",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "4.29448"
+    }, {
+        "rank": 4,
+        "symbol": "ATT",
+        "harga_updated": "8397",
+        "harga_last2hour": "8100",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "3.53698"
+    }, {
+        "rank": 5,
+        "symbol": "XEM",
+        "harga_updated": "5066",
+        "harga_last2hour": "4898",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "3.31623"
+    }, {
+        "rank": 6,
+        "symbol": "HBAR",
+        "harga_updated": "4472",
+        "harga_last2hour": "4363",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "2.43739"
+    }, {
+        "rank": 7,
+        "symbol": "GSC",
+        "harga_updated": "137",
+        "harga_last2hour": "134",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "2.18978"
+    }, {
+        "rank": 8,
+        "symbol": "KDAG",
+        "harga_updated": "10796",
+        "harga_last2hour": "10595",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "1.86180"
+    }, {
+        "rank": 9,
+        "symbol": "VRA",
+        "harga_updated": "568",
+        "harga_last2hour": "560",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "1.40845"
+    }, {
+        "rank": 10,
+        "symbol": "VIDY",
+        "harga_updated": "71",
+        "harga_last2hour": "70",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "1.40845"
+    }, {
+        "rank": 11,
+        "symbol": "SUSHI",
+        "harga_updated": "215000",
+        "harga_last2hour": "212000",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "1.39535"
+    }, {
+        "rank": 12,
+        "symbol": "BNB",
+        "harga_updated": "8779997",
+        "harga_last2hour": "8669975",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "1.25310"
+    }, {
+        "rank": 13,
+        "symbol": "SUMO",
+        "harga_updated": "1357",
+        "harga_last2hour": "1340",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "1.25276"
+    }, {
+        "rank": 14,
+        "symbol": "QTUM",
+        "harga_updated": "211965",
+        "harga_last2hour": "209903",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.97280"
+    }, {
+        "rank": 15,
+        "symbol": "BAL",
+        "harga_updated": "881443",
+        "harga_last2hour": "873931",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.85224"
+    }, {
+        "rank": 16,
+        "symbol": "COAL",
+        "harga_updated": "163",
+        "harga_last2hour": "162",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.61350"
+    }, {
+        "rank": 17,
+        "symbol": "ETC",
+        "harga_updated": "505976",
+        "harga_last2hour": "503030",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.58224"
+    }, {
+        "rank": 18,
+        "symbol": "ETH",
+        "harga_updated": "40739274",
+        "harga_last2hour": "40522393",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.53236"
+    }, {
+        "rank": 19,
+        "symbol": "DOGE",
+        "harga_updated": "4537",
+        "harga_last2hour": "4524",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.28653"
+    }, {
+        "rank": 20,
+        "symbol": "LTC",
+        "harga_updated": "3780000",
+        "harga_last2hour": "3771439",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.22648"
+    }, {
+        "rank": 21,
+        "symbol": "LINK",
+        "harga_updated": "542211",
+        "harga_last2hour": "541917",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.05422"
+    }, {
+        "rank": 22,
+        "symbol": "XLM",
+        "harga_updated": "7368",
+        "harga_last2hour": "7365",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.04072"
+    }, {
+        "rank": 23,
+        "symbol": "USDT",
+        "harga_updated": "14730",
+        "harga_last2hour": "14730",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 24,
+        "symbol": "SNX",
+        "harga_updated": "257628",
+        "harga_last2hour": "257628",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 25,
+        "symbol": "EM",
+        "harga_updated": "134",
+        "harga_last2hour": "134",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 26,
+        "symbol": "MBL",
+        "harga_updated": "245",
+        "harga_last2hour": "245",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 27,
+        "symbol": "VEX",
+        "harga_updated": "116",
+        "harga_last2hour": "116",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 28,
+        "symbol": "AOA",
+        "harga_updated": "67",
+        "harga_last2hour": "67",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 29,
+        "symbol": "SFI",
+        "harga_updated": "20474700",
+        "harga_last2hour": "20474700",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "0.00000"
+    }, {
+        "rank": 30,
+        "symbol": "DASH",
+        "harga_updated": "4192158",
+        "harga_last2hour": "4194368",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.05272"
+    }, {
+        "rank": 31,
+        "symbol": "BTC",
+        "harga_updated": "798098000",
+        "harga_last2hour": "799002000",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.11327"
+    }, {
+        "rank": 32,
+        "symbol": "EOS",
+        "harga_updated": "87423",
+        "harga_last2hour": "87570",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.16815"
+    }, {
+        "rank": 33,
+        "symbol": "IOTA",
+        "harga_updated": "29932",
+        "harga_last2hour": "30002",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.23386"
+    }, {
+        "rank": 34,
+        "symbol": "BSV",
+        "harga_updated": "4219998",
+        "harga_last2hour": "4230603",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.25130"
+    }, {
+        "rank": 35,
+        "symbol": "CRO",
+        "harga_updated": "2757",
+        "harga_last2hour": "2765",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.29017"
+    }, {
+        "rank": 36,
+        "symbol": "XTZ",
+        "harga_updated": "78658",
+        "harga_last2hour": "78968",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.39411"
+    }, {
+        "rank": 37,
+        "symbol": "RVN",
+        "harga_updated": "2444",
+        "harga_last2hour": "2454",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.40917"
+    }, {
+        "rank": 38,
+        "symbol": "ABYSS",
+        "harga_updated": "871",
+        "harga_last2hour": "875",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.45924"
+    }, {
+        "rank": 39,
+        "symbol": "WAVES",
+        "harga_updated": "278839",
+        "harga_last2hour": "280165",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.47554"
+    }, {
+        "rank": 40,
+        "symbol": "ADA",
+        "harga_updated": "20085",
+        "harga_last2hour": "20199",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.56759"
+    }, {
+        "rank": 41,
+        "symbol": "HIVE",
+        "harga_updated": "9277",
+        "harga_last2hour": "9330",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.57131"
+    }, {
+        "rank": 42,
+        "symbol": "ALGO",
+        "harga_updated": "19841",
+        "harga_last2hour": "19989",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.74593"
+    }, {
+        "rank": 43,
+        "symbol": "CKB",
+        "harga_updated": "371",
+        "harga_last2hour": "374",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.80863"
+    }, {
+        "rank": 44,
+        "symbol": "BTG",
+        "harga_updated": "1308171",
+        "harga_last2hour": "1319219",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.84454"
+    }, {
+        "rank": 45,
+        "symbol": "IGNIS",
+        "harga_updated": "2258",
+        "harga_last2hour": "2278",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.88574"
+    }, {
+        "rank": 46,
+        "symbol": "BCH",
+        "harga_updated": "13113383",
+        "harga_last2hour": "13233727",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.91772"
+    }, {
+        "rank": 47,
+        "symbol": "NEO",
+        "harga_updated": "1337337",
+        "harga_last2hour": "1350299",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.96924"
+    }, {
+        "rank": 48,
+        "symbol": "BTS",
+        "harga_updated": "1650",
+        "harga_last2hour": "1666",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.96970"
+    }, {
+        "rank": 49,
+        "symbol": "BTT",
+        "harga_updated": "102",
+        "harga_last2hour": "103",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-0.98039"
+    }, {
+        "rank": 50,
+        "symbol": "AAVE",
+        "harga_updated": "6668566",
+        "harga_last2hour": "6738091",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.04258"
+    }, {
+        "rank": 51,
+        "symbol": "DOT",
+        "harga_updated": "494050",
+        "harga_last2hour": "499217",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.04585"
+    }, {
+        "rank": 52,
+        "symbol": "OCEAN",
+        "harga_updated": "20445",
+        "harga_last2hour": "20666",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.08095"
+    }, {
+        "rank": 53,
+        "symbol": "TEN",
+        "harga_updated": "918",
+        "harga_last2hour": "928",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.08932"
+    }, {
+        "rank": 54,
+        "symbol": "XRP",
+        "harga_updated": "20299",
+        "harga_last2hour": "20565",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.31041"
+    }, {
+        "rank": 55,
+        "symbol": "BAT",
+        "harga_updated": "17705",
+        "harga_last2hour": "17956",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.41768"
+    }, {
+        "rank": 56,
+        "symbol": "BCHA",
+        "harga_updated": "501115",
+        "harga_last2hour": "508480",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.46972"
+    }, {
+        "rank": 57,
+        "symbol": "COTI",
+        "harga_updated": "5999",
+        "harga_last2hour": "6098",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.65028"
+    }, {
+        "rank": 58,
+        "symbol": "ATOM",
+        "harga_updated": "328921",
+        "harga_last2hour": "334666",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.74662"
+    }, {
+        "rank": 59,
+        "symbol": "XMR",
+        "harga_updated": "6113097",
+        "harga_last2hour": "6220921",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.76382"
+    }, {
+        "rank": 60,
+        "symbol": "1INCH",
+        "harga_updated": "83099",
+        "harga_last2hour": "84584",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.78703"
+    }, {
+        "rank": 61,
+        "symbol": "ENJ",
+        "harga_updated": "40360",
+        "harga_last2hour": "41097",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-1.82607"
+    }, {
+        "rank": 62,
+        "symbol": "UNI",
+        "harga_updated": "611088",
+        "harga_last2hour": "623838",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 18:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 18:45:01",
+        "profitloss": "-2.08644"
+    }, {
+        "rank": 63,
+        "symbol": "BCD",
+        "harga_updated": "33300",
+        "harga_last2hour": "34900",
+        "waktu_updated": "2021-04-29 20:30:01",
+        "waktu_last2hour": "2021-04-29 19:45:01",
+        "waktu_updated_desc": "Kamis 29 April 2021 jam 20:30:01",
+        "waktu_last2hour_desc": "Kamis 29 April 2021 jam 19:45:01",
+        "profitloss": "-4.80480"
+    }],
+    "hits": 169,
+    "maxhits": "1500"
+}
