@@ -4,6 +4,7 @@ cocok untuk investor dan trader cryptocurrency yang harus senantiasa terupdate i
 Informasi dalam bentuk API/JSON seperti dibawah ini, memberitahukan persentase pertumbuhan harga crypto pada selang waktu 2 jam terakhir.
 Membantu proses pengambilan keputusan investor untuk tahan/hold, jual/sell atau beli/buy.
 
+<pre>
 {
     "status": "200",
     "messages": "Coin`s Growth for last 2 hours",
@@ -29,28 +30,29 @@ Membantu proses pengambilan keputusan investor untuk tahan/hold, jual/sell atau 
         "profitloss": "4.84581"
     }, dan seterusnya
     
+</pre>    
 Dengan API Json anda, dapat memparsing dengan format seperti berikut :
 
-Performance coin 2 jam terakhir !
-
-1 . XEM growth : 4.14063 %
-harga Rp 5,120 -> Kamis 29 April 2021 jam 20:45:01
-harga Rp 4,908 -> Kamis 29 April 2021 jam 19:00:01
-
-2 . DAD growth : 4.02331 %
-harga Rp 5,319 -> Kamis 29 April 2021 jam 20:45:01
-harga Rp 5,105 -> Kamis 29 April 2021 jam 19:00:01
-
-3 . ACT growth : 2.48447 %
-harga Rp 322 -> Kamis 29 April 2021 jam 20:45:01
-harga Rp 314 -> Kamis 29 April 2021 jam 19:00:01
-
-4 . NXT growth : 2.48227 %
-harga Rp 1,128 -> Kamis 29 April 2021 jam 20:45:01
-harga Rp 1,100 -> Kamis 29 April 2021 jam 19:00:01
-
-dan seterusnya..
-
+<h1>Performance coin 2 jam terakhir !</h1>
+<br>
+<br>1 . XEM growth : 4.14063 %
+<br>harga Rp 5,120 -> Kamis 29 April 2021 jam 20:45:01
+<br>harga Rp 4,908 -> Kamis 29 April 2021 jam 19:00:01
+<br>
+<br>2 . DAD growth : 4.02331 %
+<br>harga Rp 5,319 -> Kamis 29 April 2021 jam 20:45:01
+<br>harga Rp 5,105 -> Kamis 29 April 2021 jam 19:00:01
+<br>
+<br>3 . ACT growth : 2.48447 %
+<br>harga Rp 322 -> Kamis 29 April 2021 jam 20:45:01
+<br>harga Rp 314 -> Kamis 29 April 2021 jam 19:00:01
+<br>
+<br>4 . NXT growth : 2.48227 %
+<br>harga Rp 1,128 -> Kamis 29 April 2021 jam 20:45:01
+<br>harga Rp 1,100 -> Kamis 29 April 2021 jam 19:00:01
+<br>
+<br>dan seterusnya..
+<br>
 
 Bila anda developer / programmer , anda dapat monetize Apps / script ini untuk diexpand ke mobile apps, desktop apps, telegram bot, whatsapp bot, Line Bot,
 Facebook Bot dan sebagainya
