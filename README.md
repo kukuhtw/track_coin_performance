@@ -59,6 +59,7 @@ Dengan API Json anda, dapat memparsing dengan format seperti berikut :
 <br>dan seterusnya..
 <br>
 
+<p>Contoh site : <a href="https://botmantul.id/crypto/topcoin.php">https://botmantul.id/crypto/topcoin.php</a>
 Bila anda developer / programmer , anda dapat monetize Apps / script ini untuk diexpand ke mobile apps, desktop apps, telegram bot, whatsapp bot, Line Bot,
 Facebook Bot dan sebagainya
 
